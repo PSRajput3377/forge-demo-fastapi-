@@ -1,0 +1,6 @@
+[echo:llama3.2:3b] Task: Read project
+Context:
+[echo:llama3.2:3b] Find context relevant to: Add a /status endpoint
+Known project context:
+(none yet)
+Write the code.
