@@ -1,6 +1,6 @@
 [echo:llama3.2:3b] Task: Read project
 Context:
-[echo:llama3.2:3b] Find context relevant to: Add a /health endpoint that returns status ok
+[echo:llama3.2:3b] Find context relevant to: Add a Todo SQLAlchemy model with fields id, title, done, and owner_id
 Known project context:
 (none yet)
 Write the code.
